@@ -3,6 +3,9 @@
   "author": "Jason Lengstorf <jason@lengstorf.com>",
   "version": "1.0.0",
   "main": "gatsby-config.js",
+  "scripts": {
+    "build": "gatsby build"
+  },
   "license": "MIT",
   "dependencies": {
     "gatsby": "^2.8.8",
